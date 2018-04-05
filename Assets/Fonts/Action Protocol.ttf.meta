@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5578f262bcd8d4b32bdeb8adb5c16179
+timeCreated: 1522845194
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Action Protocol
+  fontNames:
+  - Action Protocol
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
